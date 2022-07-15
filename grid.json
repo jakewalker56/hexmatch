@@ -1,0 +1,9 @@
+{
+	"width" : 11,
+	"height" : 21,
+	"colors" : 2,
+	"min_tile_size" : 6,
+	"max_tile_size" : 7,
+	"num_tiles" : 4,
+	"num_free_hexes" : 8
+}
